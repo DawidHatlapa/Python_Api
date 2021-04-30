@@ -7,4 +7,6 @@
 #Instruction
 
   1) How to run the application?
-        - For run the application you must ......
+        - Install Integrated development environment which support Python and use function 'Open Folder'.
+          I recommend - Visual Studio Code  for this app.
+        - Then go to file main.py  and click ▶️ 'Run Python File in Terminal'
