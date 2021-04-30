@@ -2,10 +2,7 @@
   
   This application is for movie service.
   You can put the several titles of movies and receive/compare information about them.
- 
- #Code
- 
-    1) Display.py is the place where 
+
   
 #Instruction
 
