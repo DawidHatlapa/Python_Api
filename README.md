@@ -7,7 +7,7 @@
 #Instruction
 
   1) How to run the application?
-        - Install Integrate Development Environment which support Python and use function 'Open Folder'.
+        - Install Integrated Development Environment which support Python and use function 'Open Folder'.
           I recommend - Visual Studio Code  for this app.
         - Then go to file main.py  and click ▶️ 'Run Python File in Terminal'.
         - Now you can see 5 options, if you choose one of them the program will return the associated functionality.
